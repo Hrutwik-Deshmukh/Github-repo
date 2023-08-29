@@ -2,4 +2,6 @@
 void main();
 {
 s.o.p.("Enter ur name");
+read username
+s.o.p.("Enter password");
 }
