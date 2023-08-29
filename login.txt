@@ -1,1 +1,5 @@
 //This is the login program.
+void main();
+{
+s.o.p.("Enter ur name");
+}
